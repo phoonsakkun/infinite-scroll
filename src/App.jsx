@@ -1,5 +1,5 @@
 import React from "react";
-import InfiniteScroll from "./infiniteScroll.jsx";
+import InfiniteScroll from "./InfiniteScroll.jsx";
 
 function App() {
   return (
